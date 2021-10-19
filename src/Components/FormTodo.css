@@ -1,0 +1,25 @@
+label {
+    margin: 10px;
+    font-size: 32px;
+}
+input{
+    height: 30px;
+}
+.subBtn {
+    border: none;
+    padding: 0.7em 2.4em;
+    font-size: 18px;
+    background: transparent;
+    cursor: pointer;
+    color:white;
+    z-index: 1;
+}
+.todo {
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+    justify-content: center;
+}
+.todo span {
+    padding: 10px;
+}
